@@ -12,7 +12,7 @@ DIRBUSTER-X is a simple Python-based directory busting tool that helps in discov
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/dirbuster-x.git
+   git clone https://github.com/amanchauhan47/dirbuster-x.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
@@ -38,18 +38,19 @@ DIRBUSTER-X is a simple Python-based directory busting tool that helps in discov
 3. **Example:**
 
    ```bash
-    Enter the URL: http://example.com
-    Enter the path of the wordlist: /path/to/wordlist.txt
+   Enter the URL: http://example.com
+   Enter the path of the wordlist: /path/to/wordlist.txt
    ```
 ## Wordlist Format
 The wordlist should contain one word per line. For example:
 
-  ```bash
-  admin
-  login
-  dashboard
-  ```
+   ```bash
+   admin
+   login
+   dashboard
+   ```
 ## Error Handling
+
 **• File Not Found:** If the wordlist file does not exist, an error message will be displayed.
 
 **• Other Errors:** Any other issues encountered during execution will be reported.
