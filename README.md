@@ -26,7 +26,7 @@ DIRBUSTER-X is a simple Python-based directory busting tool that helps in discov
 ## Usage
 1. **Run the Script**:
    ```bash
-   python dirbuster_x.py
+   python dirbuster-x.py
    ```
    
 2. **Input Required Information:**
