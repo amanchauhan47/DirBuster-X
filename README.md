@@ -51,9 +51,9 @@ The wordlist should contain one word per line. For example:
    ```
 ## Error Handling
 
-**• File Not Found:** If the wordlist file does not exist, an error message will be displayed.
+   **• File Not Found:** If the wordlist file does not exist, an error message will be displayed.
 
-**• Other Errors:** Any other issues encountered during execution will be reported.
+   **• Other Errors:** Any other issues encountered during execution will be reported.
 
 ## Contributing
 Feel free to fork the repository and submit pull requests. Contributions are welcome!
