@@ -49,6 +49,9 @@ The wordlist should contain one word per line. For example:
    login
    dashboard
    ```
+## Screenshot
+![Fuzzing Hidden Directories](images/screenshot.png)
+
 ## Error Handling
 
    **• File Not Found:** If the wordlist file does not exist, an error message will be displayed.
