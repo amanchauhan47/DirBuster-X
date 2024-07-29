@@ -31,9 +31,9 @@ DIRBUSTER-X is a simple Python-based directory busting tool that helps in discov
    
 2. **Input Required Information:**
 
-• **URL**: Enter the URL of the target web server.
+   • **URL**: Enter the URL of the target web server.
 
-• **Wordlist Path**: Provide the path to the wordlist file.
+   • **Wordlist Path**: Provide the path to the wordlist file.
 
 3. **Example:**
 
